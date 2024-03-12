@@ -1,0 +1,59 @@
+body 
+{
+  background-color: yellow;
+  text-align: center;
+}
+
+h1 
+{
+  color: red;
+  border-style: solid;
+  border-color:orangered;  
+  border-width:2px;
+  padding: 10px;
+  text-align: center;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: red;
+  background: orangered;
+  text-align: center;
+}
+a
+{
+  color: orangered;
+  font-size: 40px;
+  border-style: dashed;
+  border-color: darkblue;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+h3{
+  color: darkred;
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 40px;
+  font-family: Arial;
+  text-align: center;
+  
+}
+
+.informacoes{
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}
+h4{
+  color:orangered;
+  font-size: 40px;
+  text-align: center;
+}
+h5{
+  color:orangered;
+  font-size: 40px;
+  text-align: center;
+}
